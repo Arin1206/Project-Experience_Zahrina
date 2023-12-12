@@ -1,0 +1,13 @@
+
+public class Domath {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double score= (1.0+2.0*3.0);
+		System.out.println (score);
+		score=score/0.2;
+		System.out.println(score);
+
+	}
+
+}
