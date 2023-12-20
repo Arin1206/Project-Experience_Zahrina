@@ -16,10 +16,9 @@ Adding additional functions for several elements in WordPress (Javascript, HTML,
 <a href ="https://isico.info">ISICO 2023</a>
 <br>
 <br>
--Cekula (Software Deployment) - June, 2023<ul>
+Cekula (Software Deployment) - June, 2023<ul>
 <li>Create User Requirements, Robustness Diagrams, and Cekula SRS Documents (1.4.2)
 </li>
 <li>Cekula Website Development with Laravel (2 Login Authentication, Middleware, 20+ Blades, 17+ Controllers) and Javascript Functions for school validation
 </li>
 <li>SQL Query (Apache) with 3 Database connections totaling 500+ rows</li></ul>
-```
