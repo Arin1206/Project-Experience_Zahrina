@@ -1,6 +1,12 @@
 # Project-Experience_Zahrina
 About Project Experience's Zahrina Candrakanti
-<span style = "background-color:yellow">
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 RS Puraraharja (Rumah Sakit Surabaya) - December, 2023<ul>
 <li>Develop and design the entire Puraraharja Hospital website</li>
 <li>Backend for Email (gmail), Post CRUD (dynamical), and Feedback Form</li>
