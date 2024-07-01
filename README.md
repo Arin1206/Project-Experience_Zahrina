@@ -2,14 +2,13 @@
 About Project Experience's Zahrina Candrakanti
 
 List Of Repository Application :
-<ol><li><a href ="[https://puraraharja.com/](https://github.com/Arin1206/Clicked)">Clicked</a></li>
-  <li><a href ="https://puraraharja.com/">Clicked</a></li>
-  <li><a href ="https://puraraharja.com/">Clicked</a></li>
-  <li><a href ="https://puraraharja.com/">Clicked</a></li>
-  <li><a href ="https://puraraharja.com/">Clicked</a></li>
+<ol><li><a href ="https://github.com/Arin1206/Clicked">Clicked</a> Application for Journalist to Post News Latest with Firebase
+</li>
+  <li><a href ="https://github.com/CERIA-Team/Ceria_MD">Capstone Ceria</a> Application Recommender System while Exercising, match bpm</li> 
+  <li><a href ="https://github.com/Arin1206/BangkitStory">Bangkit Story API</a> Application Post Story with Google Maps</li> 
+  <li><a href ="https://github.com/Arin1206/CancerPredictionApp">Prediction Cancer</a> Application with Tensorflow model for predict Cancer</li>
+  <li><a href ="https://github.com/Arin1206/GithubUser">Github User</a> Application API Github with favorite User</li> 
 </ol>
-
-<br>
 <br>
 
 RS Puraraharja (Rumah Sakit Surabaya) - December, 2023<ul>
