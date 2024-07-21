@@ -34,3 +34,8 @@ Cekula (Software Deployment) - June, 2023<ul>
 <li>Cekula Website Development with Laravel (2 Login Authentication, Middleware, 20+ Blades, 17+ Controllers) and Javascript Functions for school validation
 </li>
 <li>SQL Query (Apache) with 3 Database connections totaling 500+ rows</li></ul>
+<h4 style="color:white">For Trial Accounts : </h4>
+<ol><li>School (username: 10nopember@gmail.com, password: 12345678)</li><li>Parent (username: cekulauser@gmail.com, password: 12345678)</li></ol>
+<a href ="https://cekula.rf.gd/cekula/mulai">Cekula</a>
+<br>
+<br>
